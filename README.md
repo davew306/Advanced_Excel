@@ -1,2 +1,2 @@
-# Excel 
-Pivot Tables and Charts
+# Advanced Excel
+Pivot Tables, Charts with Conditional Formatting
